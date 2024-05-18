@@ -21,13 +21,13 @@
 }
 
 table{
-	border: 1px solid black;
-	border-spacing: 1px;
+	 
+	border-spacing: 1px; 
 }
 
 td{
 	padding: 1px;
-	border: 0px non black;
+	
 }
 
 .green{
